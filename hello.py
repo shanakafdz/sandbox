@@ -1,3 +1,3 @@
-for i in range(10):
-    print('Hello ')
+for i in range(1000):
+    print('Hello')
 print('see you later')    
